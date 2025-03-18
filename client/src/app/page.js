@@ -26,7 +26,7 @@ export default function Home() {
         </div>
         <div className="mt-10">
           <h2 className="text-2xl font-bold text-gray-800">Features</h2>
-          <ul className="mt-4 text-left space-y-2">
+          <ul className="mt-4 text-left space-y-2 text-black">
             <li className="flex items-start">
               <svg className="h-6 w-6 text-green-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
