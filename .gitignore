@@ -43,3 +43,7 @@ jspm_packages/
 *.ntvs*
 *.njsproj
 *.sln
+
+# Exclude .git directories in subdirectories
+client/.git/
+server/.git/
